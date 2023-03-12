@@ -5,3 +5,4 @@ x=3
 y=8
 z=x+y
 print(z)
+#Se crean mas variables para luego hacer una operacion
