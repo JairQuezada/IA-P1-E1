@@ -12,3 +12,4 @@ celular2 = {
 
 for x, y in celular1.items():
     print(x, ": ", y, ".")
+#Con items se pueden consultar todos los datos
