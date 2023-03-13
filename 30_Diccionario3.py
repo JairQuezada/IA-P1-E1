@@ -18,3 +18,4 @@ print(celular2)
 
 for x, y in celular2.items():
     print(x, ": ", y)
+#Al igual que con las listas, el del sirve para eliminar un objeto
