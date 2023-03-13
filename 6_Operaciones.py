@@ -1,3 +1,4 @@
+#Las operaciones se hacen bastante facil gracias a cada operador
 suma = 20+7+9+8
 print(suma)
 
