@@ -12,3 +12,4 @@ elif edad > 100 and edad <= 120:
     print('Wow, es muy viejo.')
 else:
     print('Edad no valida.')
+#El elif sirve para una lista de opciones, si no se cumple ninguna se salta al else
