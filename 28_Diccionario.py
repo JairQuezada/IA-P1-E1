@@ -13,3 +13,4 @@ celular2 = {
 consulta1 = celular1["Modelo"]
 consulta2 = celular1["Precio"]
 print("El modelo "+ consulta1 + " cuesta " + consulta2 + " $ .")
+#Se puede guardar mas de un dato con {} y se puede consular los datos con una variable
