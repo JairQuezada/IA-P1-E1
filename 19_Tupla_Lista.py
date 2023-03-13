@@ -3,3 +3,4 @@ color = ['verde', 'rojo', 'amarillo', 'morado1', 'naranja', 'negro', 'blanco', '
 tupla = tuple(color)
 
 print(type(tupla))
+#Con tuple se convierte una lista en una tupla
