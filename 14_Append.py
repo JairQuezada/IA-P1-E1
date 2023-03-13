@@ -4,3 +4,4 @@ color.append('lila')
 color.append('aqua')
 
 print(color)
+#Con append se puede agregar un objeto a una lista
