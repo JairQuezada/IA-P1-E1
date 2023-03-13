@@ -10,3 +10,4 @@ def suma(*args):
     print("La suma de los numeros es: ",total)
     
 suma(4,6,7,9,2)
+#Tambien puede ser util para sumar varios numeros
