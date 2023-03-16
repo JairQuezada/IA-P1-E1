@@ -1,16 +1,16 @@
 print("Primer Ciclo\n")
 x=0
-while x <= 18:
+while x <= 15:
     print(x)
     x+=5
-print("\n\n")
+print("\n")
 
 print("Segundo Ciclo\n")
 x=0
-while x>= -150:
+while x>= -100:
     print(x)
-    x -=10
-print("\n\n")
+    x -=20
+print("\n")
 
 x = 10
 while x >=0:
