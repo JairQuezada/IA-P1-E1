@@ -1,5 +1,4 @@
-color = ['verde', 'rojo', 'amarillo', 'morado1', 'naranja', 'negro', 'blanco', ' verde', 'rosa']
-
+color = ['rojo', 'azul', 'verde', 'amarillo', 'marrón', 'lila', 'negro', 'rosa', 'blanco', 'naranja']
 print(len(color))
 
 longitud_color = len(color)
