@@ -1,4 +1,4 @@
-color = ['verde', 'rojo', 'amarillo', 'morado1', 'naranja', 'negro', 'blanco', ' verde', 'rosa']
+color = ('amarillo', 'negro',' verde', 'rosa')
 
 colo = input("Introduce un color. \n")
 #Con el input se puede recibir una entrada del usuario en la consola
