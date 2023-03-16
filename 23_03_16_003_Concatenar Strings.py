@@ -1,5 +1,5 @@
-string1 = "Hola"
-string2 = 'planeta'
+string1 = "Me llamo "
+string2 = 'Jair'
 string3 = string1+string2
 #Se crea dps strings para sumarlos y agregarlo a uno solo
 print(string3)
